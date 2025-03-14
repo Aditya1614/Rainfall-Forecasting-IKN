@@ -1,0 +1,3 @@
+# IKN Rainfall Forecasting
+
+In 2019, President Joko Widodo announced plans to move Indonesia's capital from Jakarta to East Kalimantan to tackle Jakarta's issues like traffic, floods, and land subsidence, aiming to boost the economy in the east and national resilience. However, the relocation faces challenges including infrastructure and weather disruptions. The government has started preparations, acquiring land and developing infrastructure. Yet, adverse weather like heavy rain poses a significant challenge, potentially delaying projects and affecting budgets. Accurate weather forecasts are crucial for planning and scheduling to ensure smooth progress.
